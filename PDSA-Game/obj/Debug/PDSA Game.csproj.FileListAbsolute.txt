@@ -1,0 +1,122 @@
+D:\Projects\PDSA-Game\bin\Debug\PDSA Game.exe.config
+D:\Projects\PDSA-Game\bin\Debug\PDSA Game.exe
+D:\Projects\PDSA-Game\bin\Debug\PDSA Game.pdb
+D:\Projects\PDSA-Game\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Projects\PDSA-Game\obj\Debug\PDSA Game.csproj.AssemblyReference.cache
+D:\Projects\PDSA-Game\obj\Debug\PDSA_Game.Games.Game02.resources
+D:\Projects\PDSA-Game\obj\Debug\PDSA_Game.Home.resources
+D:\Projects\PDSA-Game\obj\Debug\PDSA_Game.Properties.Resources.resources
+D:\Projects\PDSA-Game\obj\Debug\PDSA Game.csproj.GenerateResource.cache
+D:\Projects\PDSA-Game\obj\Debug\PDSA Game.csproj.CoreCompileInputs.cache
+D:\Projects\PDSA-Game\obj\Debug\PDSA Game.csproj.CopyComplete
+D:\Projects\PDSA-Game\obj\Debug\PDSA Game.exe
+D:\Projects\PDSA-Game\obj\Debug\PDSA Game.pdb
+D:\Projects\PDSA-Game\bin\Debug\MySql.Data.dll
+D:\Projects\PDSA-Game\bin\Debug\MySqlConnector.dll
+D:\Projects\PDSA-Game\bin\Debug\System.Buffers.dll
+D:\Projects\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\PDSA-Game\bin\Debug\System.Memory.dll
+D:\Projects\PDSA-Game\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects\PDSA-Game\bin\Debug\MySql.Data.xml
+D:\Projects\PDSA-Game\bin\Debug\MySqlConnector.xml
+D:\Projects\PDSA-Game\bin\Debug\System.Buffers.xml
+D:\Projects\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projects\PDSA-Game\bin\Debug\System.Memory.xml
+D:\Projects\PDSA-Game\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA Game.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA_Game.Games.Game01.resources
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA_Game.Games.Game02.resources
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA_Game.Home.resources
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA_Game.Properties.Resources.resources
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA Game.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA Game.exe
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA Game.pdb
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\PDSA Game.exe.config
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\PDSA Game.exe
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\PDSA Game.pdb
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\MySqlConnector.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\MySqlConnector.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\final\PDSA-Game_demo\PDSA-Game\obj\Debug\PDSA Game.csproj.CopyComplete
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA Game.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Games.Game03.resources
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Games.Game01.resources
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Games.Game02.resources
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Home.resources
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Properties.Resources.resources
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA Game.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA Game.exe
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA Game.pdb
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\PDSA Game.exe.config
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\PDSA Game.exe
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\PDSA Game.pdb
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\MySqlConnector.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\MySqlConnector.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA Game.csproj.CopyComplete
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Games.Game04.resources
+C:\Users\DELL\Desktop\final2\PDSA-Game\obj\Debug\PDSA_Game.Games.Game05.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\PDSA Game.exe.config
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\PDSA Game.exe
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\PDSA Game.pdb
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\MySqlConnector.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\MySqlConnector.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA Game.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Games.Game01.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Home.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Games.Game03.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Games.Game02.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Games.Game04.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Games.Game05.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA_Game.Properties.Resources.resources
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA Game.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA Game.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA Game.csproj.CopyComplete
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA Game.exe
+C:\Users\DELL\Desktop\PDSA_Course_Work_23.1_Bsc\PDSA-Game\obj\Debug\PDSA Game.pdb
